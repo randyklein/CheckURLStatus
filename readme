@@ -1,0 +1,5 @@
+App will check the status code for any URL provided (and subsequent redirects) and report the status code of the first and last page in the output.txt
+
+* Populate list of URLs in urls.txt, each URL on it's own line.
+* Run checkLinks.py
+* Import output.txt into excel as CSV
