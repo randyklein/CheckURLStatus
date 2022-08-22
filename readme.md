@@ -3,6 +3,7 @@ App will check the status code for any URL provided (and subsequent redirects) a
 
 ## To Run:
 * Populate list of URLs in urls.txt, each URL on it's own line.
+* Install required python packages using `pip install -r requirements.txt`
 * Run checkLinks.py
 * Import output.txt into excel as CSV
 
