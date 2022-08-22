@@ -1,4 +1,5 @@
-# App will check the status code for any URL provided (and subsequent redirects) and report the status code of the first and last page in the output.txt
+# About
+App will check the status code for any URL provided (and subsequent redirects) and report the status code of the first and last page in the output.txt
 
 ## To Run:
 * Populate list of URLs in urls.txt, each URL on it's own line.
