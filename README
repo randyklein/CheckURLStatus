@@ -6,6 +6,6 @@
 * Import output.txt into excel as CSV
 
 ## Notes
-* To run in background and ignore closed terminal: nohup python3 checkLinks.py &
-* To see status while running, check number of lines in output file using: wc -l output.txt
-* Check file sizes while running: ls -l --block-size=M
+* To run in background and ignore closed terminal: `nohup python3 checkLinks.py &`
+* To see status while running, check number of lines in output file using: `wc -l output.txt`
+* Check file sizes while running: `ls -l --block-size=M`
