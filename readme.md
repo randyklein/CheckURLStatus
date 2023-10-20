@@ -5,6 +5,7 @@ App will check the status code for any URL provided (and subsequent redirects) a
 * Python 3
 
 ## To Run:
+* Download soure, extract to folder, navigate into the project folder
 * Populate list of URLs in urls.txt, each URL on it's own line.
 * Install required python packages using `pip install -r requirements.txt`
 * Run checkLinks.py
