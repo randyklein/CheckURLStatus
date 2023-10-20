@@ -3,6 +3,7 @@ App will check the status code for any URL provided (and subsequent redirects) a
 
 ## System Requirements
 * Python 3
+* Python PIP
 
 ## To Run:
 * Download soure, extract to folder, navigate into the project folder
