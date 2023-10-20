@@ -1,7 +1,7 @@
 # About
 App will check the status code for any URL provided (and subsequent redirects) and report the status code of the first and last page in the output.txt
 
-## Requirements
+## System Requirements
 * Python 3
 
 ## To Run:
